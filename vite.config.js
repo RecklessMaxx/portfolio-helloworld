@@ -5,7 +5,7 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/recklessmaxx-portfolio", //Para GitHub
+  base: "/portfolio-helloworld", //Para GitHub
 //  base: "/",  // Si está en la raíz
 
 });

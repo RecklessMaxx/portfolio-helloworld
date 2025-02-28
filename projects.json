@@ -1,0 +1,31 @@
+[
+    {
+      "title": "Cloud Platform",
+      "description": "Scalable cloud infrastructure management with real-time monitoring and automated scaling.",
+      "technologies": ["React", "Node.js", "AWS", "Docker"],
+      "image": "/images/cloud-platform.jpg",
+      "link": "#"
+    },
+    {
+      "title": "AI Analytics Dashboard",
+      "description": "ML-powered data visualization platform with predictive analytics and interactive reports.",
+      "technologies": ["Python", "TensorFlow", "D3.js", "Flask"],
+      "image": "/images/ai-analytics-dashboard.jpg",
+      "link": "#"
+    },
+    {
+      "title": "E-Commerce Web App",
+      "description": "Full-stack e-commerce with modern UI, secure payment integration, and customizable product inventory.",
+      "technologies": ["Next.js", "TypeScript", "Stripe", "PostgreSQL"],
+      "image": "/images/ecommerce-web-app.jpg",
+      "link": "#"
+    },
+    {
+      "title": "Real-Time Chat App",
+      "description": "Scalable chat platform supporting real-time messaging, presence, and group chat features.",
+      "technologies": ["Socket.IO", "Express", "React", "Redis"],
+      "image": "/images/real-time-chat-app.jpg",
+      "link": "#"
+    }
+  ]
+  
